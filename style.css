@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(179, 190, 53);
+}
+h2
+{
+    color: rgb(0, 2, 113);
+}
+h3
+{
+    color: rgb(131, 1, 1);
+    font-size : 20px;
+}
+pre
+{
+    font-size: 17px;
+    color: rgb(4, 128, 0);
+    font-weight: bold;
+}
+
+h4
+{
+    color: rgb(131, 1, 1);
+    font-size : 20px;
+}
+p
+{
+    color: brown;
+}
